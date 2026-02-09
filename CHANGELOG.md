@@ -1,0 +1,2 @@
+- fix: correct FIFO lot depletion for partial sells across multiple lots in FifoCalculatorService
+- fix: correct FIFO lot depletion for partial sells across multiple lots in FifoCalculatorService
